@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Zaliczenie",
+      "setup": "cmake ./; make",
+      "run": "./zal",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
