@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/max/github-classroom/programowanie-obiektowe-cpp-classes/lab1-Max326/build",
+  "command": "/usr/bin/c++  -I/home/max/github-classroom/programowanie-obiektowe-cpp-classes/lab1-Max326/include -g -o CMakeFiles/zal.dir/test.cpp.o -c /home/max/github-classroom/programowanie-obiektowe-cpp-classes/lab1-Max326/test.cpp",
+  "file": "/home/max/github-classroom/programowanie-obiektowe-cpp-classes/lab1-Max326/test.cpp"
+}
+]

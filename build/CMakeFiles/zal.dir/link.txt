@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/zal.dir/test.cpp.o -o zal 
